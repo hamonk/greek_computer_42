@@ -1,6 +1,6 @@
 This is my brute force solver for the greek computer.
 
-I define 5 wheels and spent most of my time finding the numbers of each of the wheels.
+I define 5 wheels and spent most of my time finding the numbers on each wheel.
 
 Then I try all the combinations by rotating wheels by 1 step.
 
